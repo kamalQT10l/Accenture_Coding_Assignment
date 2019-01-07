@@ -16,4 +16,4 @@ Features :
 
 
 Feature Improvements 
-* App will look better if we add album arts (thumnail) , category, album artists and the discription.
+* App will look better if we add album arts (thumbnail) , category, album artists and the description.
