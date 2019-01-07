@@ -21,3 +21,4 @@ Features :
 
 Future Improvements 
 * App will look better if we add album arts (thumbnail) , category, album artists and the description.
+* Adding animation in album arts and user actions to the app make the app looks more attractive. 
